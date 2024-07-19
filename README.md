@@ -4,7 +4,7 @@
 
 This repository contains the PyTorch implementation for:
 
-**GeoFormer: Learning Point Cloud Completion with Tri-Plane Integrated Transformer** (ACM-MM 2024).  
+**GeoFormer: Learning Point Cloud Completion with Tri-Plane Integrated Transformer** (**ACM MM 2024**).  
 Jinpeng Yu, Binbin Huang, Yuxuan Zhang, Huaxia Li, Xu Tang, Shenghua Gao
 
 **[Paper]**(coming soon) **[datasets]**(coming soon) **[models]**(coming soon) **[results]**(coming soon)
@@ -24,7 +24,8 @@ The repository is based on [SeedFormer](https://github.com/hrzhou2/seedformer), 
 - [SnowflakeNet](https://github.com/AllenXiangX/SnowflakeNet)
 - [SVDFormer](https://github.com/czvvd/SVDFormer_PointSea)
 - [GRNet](https://github.com/hzxie/GRNet)
-We utilize [Matlab](https://github.com/cnr-isti-vclab/meshlab) to visualize the point cloud completion results.  
+
+We utilize [MeshLab](https://github.com/cnr-isti-vclab/meshlab) to visualize the point cloud completion results.  
 We thank the authors for their excellent works.
 
 ## BibTeX

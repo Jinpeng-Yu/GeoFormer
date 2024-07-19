@@ -3,7 +3,8 @@
 ![Illustration of the geometry-consistent tri-plane projection in our GeoFormer.](./figures/teaser.png)
 
 This repository contains the PyTorch implementation for:
-**GeoFormer: Learning Point Cloud Completion with Tri-Plane Integrated Transformer** (ACM-MM 2024).
+
+**GeoFormer: Learning Point Cloud Completion with Tri-Plane Integrated Transformer** (ACM-MM 2024).  
 Jinpeng Yu, Binbin Huang, Yuxuan Zhang, Huaxia Li, Xu Tang, Shenghua Gao
 
 **[Paper]**(coming soon) **[datasets]**(coming soon) **[models]**(coming soon) **[results]**(coming soon)

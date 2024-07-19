@@ -25,7 +25,8 @@ The repository is based on [SeedFormer](https://github.com/hrzhou2/seedformer), 
 - [SVDFormer](https://github.com/czvvd/SVDFormer_PointSea)
 - [GRNet](https://github.com/hzxie/GRNet)
 
-We utilize [MeshLab](https://github.com/cnr-isti-vclab/meshlab) to visualize the point cloud completion results.  
+We utilize [MeshLab](https://github.com/cnr-isti-vclab/meshlab) to visualize the point cloud completion results.
+
 We thank the authors for their excellent works.
 
 ## BibTeX

@@ -19,8 +19,15 @@ In this paper, we introduce a GeoFormer that simultaneously enhances the global 
 ## Usage
 
 ## Acknowledgements
+The repository is based on [SeedFormer](https://github.com/hrzhou2/seedformer), some parts of the code are borrowed from:
+- [PoinTr](https://github.com/yuxumin/PoinTr)
+- [SnowflakeNet](https://github.com/AllenXiangX/SnowflakeNet)
+- [SVDFormer](https://github.com/czvvd/SVDFormer_PointSea)
+- [GRNet](https://github.com/hzxie/GRNet)
+We utilize [Matlab](https://github.com/cnr-isti-vclab/meshlab) to visualize the point cloud completion results.  
+We thank the authors for their excellent works.
 
 ## BibTeX
-If you find our work useful in your reasearch, please cite:
+If you find our work useful in your reasearch, please consider citing:
 ```
 ```

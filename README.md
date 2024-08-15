@@ -7,7 +7,7 @@ This repository contains the PyTorch implementation for:
 **GeoFormer: Learning Point Cloud Completion with Tri-Plane Integrated Transformer** (**ACM MM 2024**).  
 Jinpeng Yu, Binbin Huang, Yuxuan Zhang, Huaxia Li, Xu Tang, Shenghua Gao
 
-**[Paper]**(coming soon) **[datasets]**(coming soon) **[models]**(coming soon) **[results]**(coming soon)
+**[[Paper]](https://arxiv.org/abs/2408.06596)** **[datasets]**(coming soon) **[models]**(coming soon) **[results]**(coming soon)
 
 ## Abstract
 In this paper, we introduce a GeoFormer that simultaneously enhances the global geometric structure of the points and improves the local details. Specifically, we design a **CCM Feature Enhanced Point Generator** to integrate image features from multi-view consistent canonical coordinate maps (CCMs) and align them with pure point features, thereby enhancing the global geometry feature. Additionally, we employ the **Multi-scale Geometry-aware Upsampler** module to progressively enhance local details. This is achieved through cross attention between the multi-scale features extracted from the partial input and the features derived from previously estimated points.
@@ -32,4 +32,9 @@ We thank the authors for their excellent works.
 ## BibTeX
 If you find our work useful in your reasearch, please consider citing:
 ```
+@inproceedings{yu2024geoformer,
+  title={GeoFormer: Learning Point Cloud Completion with Tri-Plane Integrated Transformer},
+  author={Yu, Jinpeng and Huang, Binbin and Zhang, Yuxuan and Li, Huaxia and Tang, Xu and Gao, Shenghua},
+  booktitle={ACM Multimedia 2024}
+}
 ```

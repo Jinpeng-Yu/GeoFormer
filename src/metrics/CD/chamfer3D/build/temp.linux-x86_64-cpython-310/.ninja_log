@@ -1,0 +1,3 @@
+# ninja log v5
+2	16121	1699615032000000000	/mnt/nlp-ali/dataset/diffusion_train_dataset/yujinpeng/code/PC_transformer/SVDFormer/metrics/CD/chamfer3D/build/temp.linux-x86_64-cpython-310/mnt/nlp-ali/dataset/diffusion_train_dataset/yujinpeng/code/PC_transformer/SVDFormer/metrics/CD/chamfer3D/chamfer_cuda.o	f65a822253fe9f5d
+2	16198	1699615032000000000	/mnt/nlp-ali/dataset/diffusion_train_dataset/yujinpeng/code/PC_transformer/SVDFormer/metrics/CD/chamfer3D/build/temp.linux-x86_64-cpython-310/mnt/nlp-ali/dataset/diffusion_train_dataset/yujinpeng/code/PC_transformer/SVDFormer/metrics/CD/chamfer3D/chamfer3D.o	3a24fa5d156fabfa
